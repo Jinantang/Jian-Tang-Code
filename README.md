@@ -1,7 +1,7 @@
 # Prime number detector
-##Background
+## Background
 People always want to know if a positive integer is a prime number, so I write this code to test if a number is a prime number.
-##Input
+## Input
 Any positive number
-##Output
+## Output
 This is a prime number or it is not a prime number
