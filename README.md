@@ -5,6 +5,6 @@ People always want to know if a positive integer is a prime number, so I write t
 Any positive number
 ## Output
 This is a prime number
-This is not a prime number
+\nThis is not a prime number
 ## Meaning
 Help mathematicians solve puzzles
